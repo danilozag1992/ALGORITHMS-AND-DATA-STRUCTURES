@@ -12,8 +12,13 @@ Give a ⭐️ if you like this project!
 *  Complete 200 Leetcode challenges
 
 ## Usage 
-git clone https://github.com/danilozag1992/ALGORITHMS-AND-DATA-STRUCTURES.git
-cd ALGORITHMS-AND-DATA-STRUCTURES
-
+#### Clone this repository
+```sh
+$ git clone https://github.com/danilozag1992/ALGORITHMS-AND-DATA-STRUCTURES.git
+```
+#### CD in that directory
+```sh
+$ cd ALGORITHMS-AND-DATA-STRUCTURES
+```
 ## Contributor 
 * [Danilo Zagarcanin](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
