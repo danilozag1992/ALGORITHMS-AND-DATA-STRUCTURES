@@ -22,3 +22,8 @@ $ cd ALGORITHMS-AND-DATA-STRUCTURES
 ```
 ## Contributor 
 * [Danilo Zagarcanin](https://github.com/danilozag1992)[(Email)](mailto:danilozagarcanin@gmail.com)
+
+## Contact
+[Email](mailto:danilozagarcanin@gmail.com)
+[Linkedin](https://www.linkedin.com/in/danilo-zagarcanin-88169b185/)
+[Twitter](https://twitter.com/danilo96061514)
